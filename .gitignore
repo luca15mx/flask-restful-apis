@@ -5,3 +5,5 @@ share/
 pyvenv.cfg
 */__pycache__/**
 cashman/model/__pycache__/
+Pipfile
+Pipfile.lock
